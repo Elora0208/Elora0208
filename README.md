@@ -91,7 +91,7 @@ Soy un desarrollador multidisciplinario con experiencia en desarrollo web, video
 <a href="mailto:oswaldolora0895@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40"/>
 </a> ‎ ‎ 
-<a href="https://instagram.com/xir.rence" target="_blank">
+<a href="https://instagram.com/oswaldolora0895" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"/>
 </a> ‎ ‎ 
 <a href="https://facebook.com/tuusuario" target="_blank">
