@@ -100,7 +100,7 @@ Soy un desarrollador multidisciplinario con experiencia en desarrollo web, video
 <a href="https://www.tiktok.com/@oswaldo.lora" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" alt="TikTok" height="40"/>
 </a> ‎ ‎ 
-<a href="https://wa.me/5211234567890" target="_blank">
+<a href="https://wa.me/525634305010" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" alt="WhatsApp" height="40"/>
 </a>
 
